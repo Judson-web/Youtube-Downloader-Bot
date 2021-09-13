@@ -13,7 +13,7 @@
     - python3 -m bot
     
 ## Thanks ❤️
-* [Spechide](https://telegram.dog/aryanvikash) for his [Youtube-Downloader-Bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)
+* [aryanvikas](https://telegram.dog/aryanvikash) for his [Youtube-Downloader-Bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)
 * [ᗪᗩᖇK ᒪOᖇᗪ](https://telegram.dog/VAMPIRE_KING_NO_1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aryanvikash/Youtube-Downloader-Bot/tree/master)
