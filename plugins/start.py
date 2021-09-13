@@ -9,6 +9,6 @@ async def start(client, message):
         [InlineKeyboardButton(
             "🎥Story Time channel Files 🎥", url="https://t.me/storytimeoG")]
     ])
-    welcomed = f"𝙃𝙮 <b>{message.from_user.first_name}</b>\n𝙎𝙚𝙚 /help 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨."
+    welcomed = f"Hy <b>{message.from_user.first_name}</b>\nI Can Download YouTube Videos By Link, Send Me A Link To See That Magic. Hit /help for get an idea.Join @PRIMER_ROOM"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
